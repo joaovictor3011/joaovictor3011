@@ -2,7 +2,7 @@
 
 ### Olá eu sou o João Victor 👋
 
-- 🔭 Hoje trabalho com Back-end
+- 🔭 Hoje sou estudante de analise e desenvolvimento de sistemas
 - 🌱 Estudando AWS
 - 😄 Pronouns: ele/dele
   
