@@ -3,7 +3,7 @@
 ### Olá eu sou o João Victor 👋
 
 - 🔭 Hoje sou estudante de analise e desenvolvimento de sistemas
-- 🌱 Estudando AWS
+- 🌱 Estudando C#
 - 😄 Pronouns: ele/dele
   
   
