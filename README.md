@@ -20,7 +20,7 @@
 ## **Softwares e Ferramentas**:
 
 
-![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="git"/>
