@@ -28,9 +28,6 @@
   <a href="https://github.com/ELanza-48" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
-    <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
-      alt="docker"/>
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
     <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
     <a href="https://spring.io/" target="_blank"> 
